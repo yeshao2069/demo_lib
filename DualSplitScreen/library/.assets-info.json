@@ -1,0 +1,85 @@
+{
+  "/Users/apple/work/cocosProj/DualSplitScreen/assets/scene.scene.meta": {
+    "time": 1614149741806.6804
+  },
+  "/Users/apple/work/cocosProj/DualSplitScreen/assets/scene.scene": {
+    "time": 1614156370961.1619,
+    "uuid": "7ad2d7cb-9dc3-442e-b275-9daa0dcd9286",
+    "missing": false
+  },
+  "/Users/apple/work/cocosProj/DualSplitScreen/assets/bunnys_01.png.meta": {
+    "time": 1614149813820.1785
+  },
+  "/Users/apple/work/cocosProj/DualSplitScreen/assets/bunnys_03.png.meta": {
+    "time": 1614149819096.5554
+  },
+  "/Users/apple/work/cocosProj/DualSplitScreen/assets/bunnys_03.png": {
+    "time": 1604653532000,
+    "uuid": "9b7ba6de-2593-4501-8242-803063e2b93c",
+    "missing": false
+  },
+  "/Users/apple/work/cocosProj/DualSplitScreen/assets/bunnys_01.png": {
+    "time": 1604653532000,
+    "uuid": "3afb9a50-6b3e-4e4c-be36-f62ca328401d",
+    "missing": false
+  },
+  "/Users/apple/work/cocosProj/DualSplitScreen/assets/move.ts.meta": {
+    "time": 1614151142521.254
+  },
+  "/Users/apple/work/cocosProj/DualSplitScreen/assets/move.ts": {
+    "time": 1614156432966.944,
+    "uuid": "33040761-2a2a-4644-ae62-846b123e097f",
+    "missing": false
+  },
+  "/Users/apple/work/cocosProj/DualSplitScreen/assets/bg.jpeg.meta": {
+    "time": 1614151337284.019
+  },
+  "/Users/apple/work/cocosProj/DualSplitScreen/assets/bg.jpeg": {
+    "time": 1614151273329.1443,
+    "uuid": "9e143bc2-31fa-43f1-bd04-4165b5232529",
+    "missing": true
+  },
+  "F:\\DualSplitScreen-2d-demo-3.0.0\\DualSplitScreen\\assets\\move.ts.meta": {
+    "time": 1614151142000
+  },
+  "F:\\DualSplitScreen-2d-demo-3.0.0\\DualSplitScreen\\assets\\scene.scene.meta": {
+    "time": 1614149741000
+  },
+  "F:\\DualSplitScreen-2d-demo-3.0.0\\DualSplitScreen\\assets\\bg.jpeg.meta": {
+    "time": 1614151337000
+  },
+  "F:\\DualSplitScreen-2d-demo-3.0.0\\DualSplitScreen\\assets\\bunnys_01.png.meta": {
+    "time": 1614149813000
+  },
+  "F:\\DualSplitScreen-2d-demo-3.0.0\\DualSplitScreen\\assets\\bunnys_03.png.meta": {
+    "time": 1614149819000
+  },
+  "F:\\DualSplitScreen-2d-demo-3.0.0\\DualSplitScreen\\assets\\move.ts": {
+    "time": 1614156432000,
+    "uuid": "33040761-2a2a-4644-ae62-846b123e097f",
+    "missing": false
+  },
+  "F:\\DualSplitScreen-2d-demo-3.0.0\\DualSplitScreen\\assets\\bunnys_01.png": {
+    "time": 1604653532000,
+    "uuid": "3afb9a50-6b3e-4e4c-be36-f62ca328401d",
+    "missing": false
+  },
+  "F:\\DualSplitScreen-2d-demo-3.0.0\\DualSplitScreen\\assets\\scene.scene": {
+    "time": 1614753393179.4915,
+    "uuid": "7ad2d7cb-9dc3-442e-b275-9daa0dcd9286",
+    "missing": false
+  },
+  "F:\\DualSplitScreen-2d-demo-3.0.0\\DualSplitScreen\\assets\\bunnys_03.png": {
+    "time": 1604653532000,
+    "uuid": "9b7ba6de-2593-4501-8242-803063e2b93c",
+    "missing": false
+  },
+  "F:\\DualSplitScreen-2d-demo-3.0.0\\DualSplitScreen\\assets\\bg.png.meta": {
+    "time": 1614751314094.0212
+  },
+  "F:\\DualSplitScreen-2d-demo-3.0.0\\DualSplitScreen\\assets\\bg.png": {
+    "time": 1614673815000,
+    "uuid": "c4ca9608-3f79-4a1f-a854-3145535f076f",
+    "missing": false
+  }
+}

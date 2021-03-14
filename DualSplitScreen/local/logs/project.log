@@ -1,0 +1,22 @@
+2021-03-03 14:35:52-log: [Package] profile@1.0.0 enable
+2021-03-03 14:35:52-log: [Package] messages@1.0.0 enable
+2021-03-03 14:35:52-log: [Package] device@1.0.1 enable
+2021-03-03 14:35:52-log: [Package] ui-kit@1.0.0 enable
+2021-03-03 14:35:52-log: [Package] program@1.0.0 enable
+2021-03-03 14:35:52-log: [Package] preferences@1.0.0 enable
+2021-03-03 14:35:53-log: Start Quick Compile
+2021-03-03 14:35:52-log: [Package] menu@1.0.0 enable
+2021-03-03 14:35:53-log: QuickCompiler:Compile target 0: 66.924ms
+2021-03-03 14:35:53-log: QuickCompiler:Compile target 1: 24.747ms
+2021-03-03 14:35:53-log: Setup mods mgr.: 285.651ms
+2021-03-03 14:35:53-log: [Package] engine@1.0.5 enable
+2021-03-03 14:35:53-log: Quick Compile: 128ms
+2021-03-03 14:35:57-log: [Package] programming@1.0.0 enable
+2021-03-03 14:35:52-log: [Package] tester@1.0.0 enable
+2021-03-03 14:35:57-log: [Package] console@1.0.0 enable
+2021-03-03 14:35:57-log: [Package] scene@1.0.0 enable
+2021-03-03 14:35:57-log: [Package] project@1.0.1 enable
+2021-03-03 14:35:57-log: [Package] server@1.0.0 enable
+2021-03-03 14:35:57-log: [Package] utils@1.0.0 enable
+2021-03-03 14:35:57-log: [Package] about@1.0.0 enable
+2021-03-03 14:35:57-log: [Package] asset-db@1.0.0 enable
