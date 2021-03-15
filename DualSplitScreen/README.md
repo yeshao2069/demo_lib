@@ -6,4 +6,7 @@
 
 &nbsp;
 ## 双人分屏效果   DualSplitScreen
-![image](https://github.com/yeshao2069/CocosCreatorDemos/blob/v3.0.0/gif/dualSplitScreen.gif)
+#### 操作步骤
+
+#### 效果预览
+![image](https://github.com/yeshao2069/CocosCreatorDemos/blob/v3.0.0/images/gif/dualSplitScreen.gif)
